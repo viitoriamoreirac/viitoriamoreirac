@@ -1,6 +1,6 @@
 ### Olá, eu sou Vitória Cabral! 👋👩‍💻
 
-**Sou formada como técnica em Eletroeletrônica, atualmente sou graduanda no Bacharel em Sistemas de informações pelo Instituto Federal de Alagoas e aspirante a Desenvolvedora FrontEnd.**
+**Sou formada como técnica em Eletroeletrônica, atualmente sou graduanda no Bacharel em Sistemas de informações pelo Instituto Federal de Alagoas, me especializando em Desenvolvimento BackEnd.**
 
 **Tenho conhecimentos em:**
 
@@ -11,8 +11,7 @@
 
 **Atualmente estou estudando:**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 **Para contato:**
 
